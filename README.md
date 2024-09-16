@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Alejandro Eymar
 
 ### Estudiante de ASIR en la Universidad U-TAD, próximo a especializarme en Ciberseguridad.
-
+![Logo de la Universidad U-TAD](https://www.ucjc.edu/la-universidad/wp-content/uploads/sites/2/2023/06/logo-utad.jpg)
 ---
 
 ## 🛠️ **Tecnologías que manejo**:
