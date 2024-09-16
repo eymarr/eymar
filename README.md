@@ -40,5 +40,6 @@ Además de mis estudios, juego en un equipo de fútbol llamado **Fesa FC** en la
 ---
 
 ## 📫 **Contacto**:
+- GitHub: [AlejandroEymar](https://github.com/eymarr)
 - LinkedIn: [Alejandro Eymar](https://www.linkedin.com/in/alejandro-eymar-068667297)
 - Correo: alejandroeymaraguado@gmail.com
