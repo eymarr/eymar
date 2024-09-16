@@ -22,8 +22,13 @@
 
 ---
 
-## 🌱 **Mi recorrido académico**:
-Actualmente, soy estudiante de **ASIR** en la universidad **U-TAD** y el próximo año cursaré el máster de especialización en **Ciberseguridad**. Vengo de un bachillerato científico en **Gredos San Diego**, donde adquirí una sólida base en ciencias.
+## 🌱 **Mi recorrido académico**
+
+| Año               | Título                                        | Institución              |
+|-------------------|-----------------------------------------------|--------------------------|
+| 2020 - 2021       | Educación Secundaria Obligatoria (ESO)        | Gredos San Diego         |
+| 2022 - 2023       | Bachillerato científico                       | Gredos San Diego         |
+| 2023              | Certificado C1 de inglés                      | Cambridge                | 
 
 ---
 
